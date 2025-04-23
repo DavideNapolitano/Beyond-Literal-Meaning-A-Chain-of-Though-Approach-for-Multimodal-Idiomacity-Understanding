@@ -3,12 +3,12 @@
 Official repository of the paper: *"PoliTo at SemEval-2025 Task 1: Beyond Literal Meaning: A Chain-of-Though Approach for Multimodal Idiomacity Understanding"*
 
 ## 🏁 AdMIRe
-Challenge website: [AdMIRe](https://semeval2025-task1.github.io/)
+Challenge website: [AdMIRe](https://semeval2025-task1.github.io/) </br>
 Codabech website: [competition](https://www.codabench.org/competitions/4345/#/results-tab)
 
 ## 🔧 Code organization
 
-The code has been tested only on english data. It can be adapted to any language by translating the prompts.
+The code has been tested only on English data. It can be adapted to any language by translating the prompts.
 
 ## 👤 Authors
 - [Lorenzo Vaiani](mailto:lorenzo.vaiani@polito.it) - Politecnico di Torino
