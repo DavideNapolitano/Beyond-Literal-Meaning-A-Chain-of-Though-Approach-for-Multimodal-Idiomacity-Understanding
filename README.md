@@ -21,7 +21,7 @@ The code has been tested only on English data. It can be adapted to any language
 ## 📌 Model
 - Gemini 1.5 Flash: [Gemini API](https://ai.google.dev/)
 - Gemini 2.0 Flash: [Gemini API](https://ai.google.dev/)
-- Gemini 2.0 Flash Thinking: [Gemini API](https://ai.google.dev/)
+- Gemini 2.0 Flash Thinking: [Gemini API](https://ai.google.dev/) (Exp 01-21)
 - Qwen 2.5 VL 7B: [Qwen](https://huggingface.co/Qwen/Qwen2.5-VL-7B-Instruct)
 - CLIP-large: [CLIP](https://huggingface.co/openai/clip-vit-large-patch14)
 
